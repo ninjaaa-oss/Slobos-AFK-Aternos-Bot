@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JosVerstappen.aternos.me:33760",
-    "port": 27586,
+    "ip": "JosVerstappen.aternos.me",
+    "port": 33760,
     "version": "",
     "try-creative": false
   },
