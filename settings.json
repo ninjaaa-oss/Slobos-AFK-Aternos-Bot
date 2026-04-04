@@ -8,7 +8,7 @@
   "server": {
     "ip": "JosVerstappen.aternos.me",
     "port": 33760,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
